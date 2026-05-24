@@ -8,7 +8,7 @@ Atualmente participo de projetos envolvendo modelagem computacional, estabilidad
 
 Aqui no GitHub você encontrará estudos, experimentos, projetos acadêmicos e aplicações voltadas para engenharia e computação. Também gosto de me aventurar por diferentes linguagens e tecnologias, explorando novas formas de resolver problemas e expandir constantemente meus conhecimentos.
 
-Sempre buscando aprender, criar e transformar ideias em soluções práticas.
+Sempre buscando aprender, criar e transformar ideias em soluções práticas. 
 
 
 ---
