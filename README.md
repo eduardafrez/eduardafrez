@@ -73,20 +73,14 @@ Sempre buscando aprender, criar e transformar ideias em soluções práticas.
 
 ### 📊 Estatísticas
 
-<p>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    style="padding-right: 10px;" 
-    height="200" 
+<p align="left">
+  <img 
+    height="180em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardafrez&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"
-/>
+  />
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardafrez&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
-/>
-
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardafrez&theme=tokyonight&layout=donut&custom_title=Tecnologias&langs_count=9&hide_border=true&card_width=320"
+  />
 </p>
