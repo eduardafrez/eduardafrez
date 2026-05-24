@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Eduarda Frez
 
-**`Desenvolvedora FullStack`**
+**`Engenharia • Computação • Desenvolvimento`**
 
 Me chamo Eduarda de Oliveira Batista Frez, resido atualmente no Rio de Janeiro, e estou cursando Engenharia Elétrica com ênfase em Sistemas e Computação pela Universidade do Estado do Rio de Janeiro. Tenho grande interesse em computação aplicada à engenharia, principalmente nas áreas de automação e desenvolvimento de soluções utilizando programação.
 
@@ -8,7 +8,7 @@ Atualmente participo de projetos envolvendo modelagem computacional, estabilidad
 
 Aqui no GitHub você encontrará estudos, experimentos, projetos acadêmicos e aplicações voltadas para engenharia e computação. Também gosto de me aventurar por diferentes linguagens e tecnologias, explorando novas formas de resolver problemas e expandir constantemente meus conhecimentos.
 
-Sempre buscando aprender, criar e transformar ideias em soluções práticas. 
+Sempre buscando aprender, criar e transformar ideias em soluções práticas.
 
 
 ---
@@ -74,19 +74,19 @@ Sempre buscando aprender, criar e transformar ideias em soluções práticas.
 ### 📊 Estatísticas
 
 <p>
-  <img 
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    style="padding-right: 10px;" 
+    height="200" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardafrez&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"
+/>
+
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=eduardafrez&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardafrez&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
-  />
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardafrez&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
+/>
 
 </p>
